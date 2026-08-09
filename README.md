@@ -7,4 +7,4 @@ Pengembangan aplikasi SAKRAL (Sistem Akuntansi Keuangan Relasi Alam dan Adat) ag
 * **Afiliasi**: FEB Uncen, Papua - 2026.
 * **Dibuat dengan ❤️ untuk BUMKAM Papua**
 
-©2026 Hen Wani KKN Kami Membumi FEB Uncen • Develop by [Enterdie](https://www.linkedin.com/in/papedatimur) • Original concept by [Kurnia Patma](https://www.instagram.com/kurniawan_patma) • Dibuat dengan ❤️ untuk BUMKAM Papua
+©2026 FEB Uncen • Develop by [Enterdie](https://www.linkedin.com/in/papedatimur) • Original concept by [Kurnia Patma](https://www.instagram.com/kurniawan_patma) • Dibuat dengan ❤️ untuk BUMKAM Papua
