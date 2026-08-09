@@ -1,0 +1,16 @@
+{
+  "short_name": "SAKRAL",
+  "name": "SAKRAL: Sistem Akuntansi Keuangan Relasi Alam dan Adat",
+  "icons": [
+    {
+      "src": "./icon_sakral_transparent.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#052215",
+  "theme_color": "#00b159",
+  "display": "standalone",
+  "orientation": "portrait"
+}
